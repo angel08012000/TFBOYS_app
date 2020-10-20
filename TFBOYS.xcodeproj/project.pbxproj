@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9030F4F1253C4648002BE917 /* karry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F4F0253C4648002BE917 /* karry.swift */; };
+		9030F4F7253C9219002BE917 /* roy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F4F6253C9219002BE917 /* roy.swift */; };
+		9030F4FB253C9243002BE917 /* jackson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F4FA253C9243002BE917 /* jackson.swift */; };
+		9030F502253C9D8C002BE917 /* Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F501253C9D8C002BE917 /* Heart.mp3 */; };
+		9030F50D253CC9B6002BE917 /* Heart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F50C253CC9B6002BE917 /* Heart.swift */; };
+		9030F510253D614B002BE917 /* home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F50F253D614B002BE917 /* home.swift */; };
+		9030F513253D6234002BE917 /* songList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F512253D6234002BE917 /* songList.swift */; };
+		9030F516253D6895002BE917 /* HandBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F515253D6895002BE917 /* HandBook.swift */; };
+		9030F519253D689F002BE917 /* Dreamer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F518253D689F002BE917 /* Dreamer.swift */; };
+		9030F51C253D68A9002BE917 /* Time.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F51B253D68A9002BE917 /* Time.swift */; };
+		9030F522253D855E002BE917 /* drama.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F521253D855E002BE917 /* drama.swift */; };
+		9030F527253DE1F9002BE917 /* 愛出發.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F526253DE1F8002BE917 /* 愛出發.mp3 */; };
+		9030F52A253DE2A6002BE917 /* 夢想啟航.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F529253DE2A6002BE917 /* 夢想啟航.mp3 */; };
+		9030F530253DEF46002BE917 /* 青春修煉手冊.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F52F253DEF46002BE917 /* 青春修煉手冊.mp3 */; };
+		9030F534253DF0AC002BE917 /* 和你在一起.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F533253DF0AC002BE917 /* 和你在一起.mp3 */; };
+		9030F537253DF0B3002BE917 /* 我們的時光.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F536253DF0B3002BE917 /* 我們的時光.mp3 */; };
+		9030F53A253DF1DF002BE917 /* 大夢想家.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9030F539253DF1DF002BE917 /* 大夢想家.mp3 */; };
+		9030F554253EA121002BE917 /* real@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F552253EA121002BE917 /* real@3x.png */; };
+		9030F555253EA121002BE917 /* real@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F553253EA121002BE917 /* real@2x.png */; };
+		9030F559253EA13F002BE917 /* cute@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F557253EA13F002BE917 /* cute@2x.png */; };
+		9030F55A253EA13F002BE917 /* cute@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F558253EA13F002BE917 /* cute@3x.png */; };
+		9030F55E253EA28E002BE917 /* change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9030F55D253EA28E002BE917 /* change.swift */; };
+		9030F561253EA801002BE917 /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9030F560253EA801002BE917 /* crayon_1-1.ttf */; };
+		9030F566253EB313002BE917 /* small@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F564253EB311002BE917 /* small@3x.png */; };
+		9030F567253EB313002BE917 /* small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9030F565253EB312002BE917 /* small@2x.png */; };
+		907E5AF625385B7600069BF3 /* TFBOYSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907E5AF525385B7600069BF3 /* TFBOYSApp.swift */; };
+		907E5AF825385B7600069BF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 907E5AF725385B7600069BF3 /* ContentView.swift */; };
+		907E5AFA25385B7800069BF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 907E5AF925385B7800069BF3 /* Assets.xcassets */; };
+		907E5AFD25385B7800069BF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 907E5AFC25385B7800069BF3 /* Preview Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9030F4F0253C4648002BE917 /* karry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = karry.swift; sourceTree = "<group>"; };
+		9030F4F6253C9219002BE917 /* roy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roy.swift; sourceTree = "<group>"; };
+		9030F4FA253C9243002BE917 /* jackson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jackson.swift; sourceTree = "<group>"; };
+		9030F501253C9D8C002BE917 /* Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Heart.mp3; sourceTree = "<group>"; };
+		9030F50C253CC9B6002BE917 /* Heart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heart.swift; sourceTree = "<group>"; };
+		9030F50F253D614B002BE917 /* home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = home.swift; sourceTree = "<group>"; };
+		9030F512253D6234002BE917 /* songList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = songList.swift; sourceTree = "<group>"; };
+		9030F515253D6895002BE917 /* HandBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HandBook.swift; sourceTree = "<group>"; };
+		9030F518253D689F002BE917 /* Dreamer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dreamer.swift; sourceTree = "<group>"; };
+		9030F51B253D68A9002BE917 /* Time.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Time.swift; sourceTree = "<group>"; };
+		9030F521253D855E002BE917 /* drama.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drama.swift; sourceTree = "<group>"; };
+		9030F526253DE1F8002BE917 /* 愛出發.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "愛出發.mp3"; sourceTree = "<group>"; };
+		9030F529253DE2A6002BE917 /* 夢想啟航.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "夢想啟航.mp3"; sourceTree = "<group>"; };
+		9030F52F253DEF46002BE917 /* 青春修煉手冊.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "青春修煉手冊.mp3"; sourceTree = "<group>"; };
+		9030F533253DF0AC002BE917 /* 和你在一起.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "和你在一起.mp3"; sourceTree = "<group>"; };
+		9030F536253DF0B3002BE917 /* 我們的時光.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "我們的時光.mp3"; sourceTree = "<group>"; };
+		9030F539253DF1DF002BE917 /* 大夢想家.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "大夢想家.mp3"; sourceTree = "<group>"; };
+		9030F552253EA121002BE917 /* real@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "real@3x.png"; sourceTree = "<group>"; };
+		9030F553253EA121002BE917 /* real@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "real@2x.png"; sourceTree = "<group>"; };
+		9030F557253EA13F002BE917 /* cute@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cute@2x.png"; sourceTree = "<group>"; };
+		9030F558253EA13F002BE917 /* cute@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cute@3x.png"; sourceTree = "<group>"; };
+		9030F55D253EA28E002BE917 /* change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = change.swift; sourceTree = "<group>"; };
+		9030F560253EA801002BE917 /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
+		9030F564253EB311002BE917 /* small@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "small@3x.png"; sourceTree = "<group>"; };
+		9030F565253EB312002BE917 /* small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "small@2x.png"; sourceTree = "<group>"; };
+		907E5AF225385B7600069BF3 /* TFBOYS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TFBOYS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		907E5AF525385B7600069BF3 /* TFBOYSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TFBOYSApp.swift; sourceTree = "<group>"; };
+		907E5AF725385B7600069BF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		907E5AF925385B7800069BF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		907E5AFC25385B7800069BF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		907E5AFE25385B7800069BF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		907E5AEF25385B7600069BF3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		907E5AE925385B7600069BF3 = {
+			isa = PBXGroup;
+			children = (
+				907E5AF425385B7600069BF3 /* TFBOYS */,
+				907E5AF325385B7600069BF3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		907E5AF325385B7600069BF3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				907E5AF225385B7600069BF3 /* TFBOYS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		907E5AF425385B7600069BF3 /* TFBOYS */ = {
+			isa = PBXGroup;
+			children = (
+				9030F501253C9D8C002BE917 /* Heart.mp3 */,
+				907E5AF525385B7600069BF3 /* TFBOYSApp.swift */,
+				9030F553253EA121002BE917 /* real@2x.png */,
+				9030F552253EA121002BE917 /* real@3x.png */,
+				9030F565253EB312002BE917 /* small@2x.png */,
+				9030F564253EB311002BE917 /* small@3x.png */,
+				9030F536253DF0B3002BE917 /* 我們的時光.mp3 */,
+				9030F533253DF0AC002BE917 /* 和你在一起.mp3 */,
+				9030F526253DE1F8002BE917 /* 愛出發.mp3 */,
+				907E5AF725385B7600069BF3 /* ContentView.swift */,
+				9030F55D253EA28E002BE917 /* change.swift */,
+				9030F521253D855E002BE917 /* drama.swift */,
+				9030F512253D6234002BE917 /* songList.swift */,
+				9030F529253DE2A6002BE917 /* 夢想啟航.mp3 */,
+				9030F560253EA801002BE917 /* crayon_1-1.ttf */,
+				9030F52F253DEF46002BE917 /* 青春修煉手冊.mp3 */,
+				9030F557253EA13F002BE917 /* cute@2x.png */,
+				9030F558253EA13F002BE917 /* cute@3x.png */,
+				9030F515253D6895002BE917 /* HandBook.swift */,
+				9030F518253D689F002BE917 /* Dreamer.swift */,
+				9030F51B253D68A9002BE917 /* Time.swift */,
+				9030F539253DF1DF002BE917 /* 大夢想家.mp3 */,
+				9030F50F253D614B002BE917 /* home.swift */,
+				9030F50C253CC9B6002BE917 /* Heart.swift */,
+				9030F4F0253C4648002BE917 /* karry.swift */,
+				9030F4F6253C9219002BE917 /* roy.swift */,
+				9030F4FA253C9243002BE917 /* jackson.swift */,
+				907E5AF925385B7800069BF3 /* Assets.xcassets */,
+				907E5AFE25385B7800069BF3 /* Info.plist */,
+				907E5AFB25385B7800069BF3 /* Preview Content */,
+			);
+			path = TFBOYS;
+			sourceTree = "<group>";
+		};
+		907E5AFB25385B7800069BF3 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				907E5AFC25385B7800069BF3 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		907E5AF125385B7600069BF3 /* TFBOYS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 907E5B0125385B7800069BF3 /* Build configuration list for PBXNativeTarget "TFBOYS" */;
+			buildPhases = (
+				907E5AEE25385B7600069BF3 /* Sources */,
+				907E5AEF25385B7600069BF3 /* Frameworks */,
+				907E5AF025385B7600069BF3 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TFBOYS;
+			productName = TFBOYS;
+			productReference = 907E5AF225385B7600069BF3 /* TFBOYS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		907E5AEA25385B7600069BF3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					907E5AF125385B7600069BF3 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 907E5AED25385B7600069BF3 /* Build configuration list for PBXProject "TFBOYS" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 907E5AE925385B7600069BF3;
+			productRefGroup = 907E5AF325385B7600069BF3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				907E5AF125385B7600069BF3 /* TFBOYS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		907E5AF025385B7600069BF3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9030F537253DF0B3002BE917 /* 我們的時光.mp3 in Resources */,
+				9030F502253C9D8C002BE917 /* Heart.mp3 in Resources */,
+				9030F567253EB313002BE917 /* small@2x.png in Resources */,
+				9030F53A253DF1DF002BE917 /* 大夢想家.mp3 in Resources */,
+				9030F534253DF0AC002BE917 /* 和你在一起.mp3 in Resources */,
+				9030F530253DEF46002BE917 /* 青春修煉手冊.mp3 in Resources */,
+				9030F55A253EA13F002BE917 /* cute@3x.png in Resources */,
+				9030F566253EB313002BE917 /* small@3x.png in Resources */,
+				9030F559253EA13F002BE917 /* cute@2x.png in Resources */,
+				9030F52A253DE2A6002BE917 /* 夢想啟航.mp3 in Resources */,
+				907E5AFD25385B7800069BF3 /* Preview Assets.xcassets in Resources */,
+				9030F527253DE1F9002BE917 /* 愛出發.mp3 in Resources */,
+				907E5AFA25385B7800069BF3 /* Assets.xcassets in Resources */,
+				9030F555253EA121002BE917 /* real@2x.png in Resources */,
+				9030F561253EA801002BE917 /* crayon_1-1.ttf in Resources */,
+				9030F554253EA121002BE917 /* real@3x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		907E5AEE25385B7600069BF3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9030F50D253CC9B6002BE917 /* Heart.swift in Sources */,
+				907E5AF825385B7600069BF3 /* ContentView.swift in Sources */,
+				9030F51C253D68A9002BE917 /* Time.swift in Sources */,
+				9030F510253D614B002BE917 /* home.swift in Sources */,
+				9030F4FB253C9243002BE917 /* jackson.swift in Sources */,
+				9030F519253D689F002BE917 /* Dreamer.swift in Sources */,
+				9030F513253D6234002BE917 /* songList.swift in Sources */,
+				9030F55E253EA28E002BE917 /* change.swift in Sources */,
+				9030F4F7253C9219002BE917 /* roy.swift in Sources */,
+				9030F516253D6895002BE917 /* HandBook.swift in Sources */,
+				907E5AF625385B7600069BF3 /* TFBOYSApp.swift in Sources */,
+				9030F4F1253C4648002BE917 /* karry.swift in Sources */,
+				9030F522253D855E002BE917 /* drama.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		907E5AFF25385B7800069BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		907E5B0025385B7800069BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		907E5B0225385B7800069BF3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"TFBOYS/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = TFBOYS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = xxx.TFBOYS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		907E5B0325385B7800069BF3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"TFBOYS/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = TFBOYS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = xxx.TFBOYS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		907E5AED25385B7600069BF3 /* Build configuration list for PBXProject "TFBOYS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				907E5AFF25385B7800069BF3 /* Debug */,
+				907E5B0025385B7800069BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		907E5B0125385B7800069BF3 /* Build configuration list for PBXNativeTarget "TFBOYS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				907E5B0225385B7800069BF3 /* Debug */,
+				907E5B0325385B7800069BF3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 907E5AEA25385B7600069BF3 /* Project object */;
+}
